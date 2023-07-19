@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+<<<<<<< HEAD
+    <file url="PROJECT" libraries="{jquery-3.3.1}" />
+=======
+    <file url="PROJECT" libraries="{bootstrap, jquery-3.3.1.slim, popper.js}" />
+>>>>>>> 3b197a04a2a5af6a2fbb1ce176e16287c34a2ead
+  </component>
+</project>
